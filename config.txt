@@ -1,27 +1,27 @@
 {
-# 公众号配置
-# 公众号appId
-"app_id": "wxf96850f0ff8b118b",
-# 公众号appSecret
-"app_secret": "1767d236d97c9239ab41385c1f4fe77f",
-# 模板消息id
-"template_id": "fDZMA2IlHTa_5cMUTVmfoL7no6KMcCofrcUoL6HoDN8",
-# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["o_xnL5w1K23z5CdCyandwRLSkg1A","o_xnL558x3CvBG0ZCgnAYpmb8Jjc"],
+# ���ں�����
+# ���ں�appId
+"app_id": "wx0d4284e31c5dfa23",
+# ���ں�appSecret
+"app_secret": "6e94785e76295b479e42c58ce8c09222",
+# ģ����Ϣid
+"template_id": "TvAe8GbCzxWe7k6n_V14Q3QXZPsJhydb76f7IN4V0vA",
+# ���չ��ں���Ϣ��΢�źţ�����ж������Ҫ��[]����Ӣ�Ķ��ż��������["wx1", "wx2"]
+"user": ["oLeb45zzPWZLkae3VOR5--vT5O-M"],
  
-# 信息配置
-# 和风天气apikey
-"weather_key": "534ce2bfef5947f2a93f782eef90d159",
-# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
-"region": "黄岛",
-# 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
-"birthday1": {"name": "崔女士", "birthday": "2003-05-31"},
-# 生日2
-"birthday2": {"name": "宋先生", "birthday": "2003-07-26"},
-# 在一起的日子，格式同上，暂不不支持农历
-"love_date": "2021-05-24",
-# 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
+# ��Ϣ����
+# �ͷ�����apikey
+"weather_key": "44f598e96cf8412aa04571ca690b3afb",
+# ���ڵ�������Ϊʡ�����У������أ�ͬʱ֧�ֹ�����У������׶�
+"region": "��",
+# ����1���޸�����Ϊ��Ӧ��Ҫ��ʾ�����֣��������Ϊũ��������ǰ�����r����
+"birthday1": {"name": "Сŷ", "birthday": "2002-01-16"},
+# ����2
+
+
+"love_date": "2022-07-11",
+# ������ģ���������ˣ������ʾ����ģ����Ϊ�գ�Ĭ�ϻ��ȡ��ɽ��ÿ�ս��
 "note_ch": "",
-# 金句英文
+# ���Ӣ��
 "note_en": ""
 }
